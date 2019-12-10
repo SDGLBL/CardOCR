@@ -4,9 +4,7 @@
 
 ### 目标
 
-- 身份证识别
 - 银行卡识别
-- 火车票识别
 
 ### 目前实现内容
 
@@ -14,6 +12,6 @@
 
 ### 初代附件
 
-- 完整的可运行版本（已完成但效果不佳）
+- 完整的可运行版本
 
 https://guanghou-my.sharepoint.com/:f:/g/personal/sdglblod_get365_pw/EqWp0KkjvlBPnM35qICYj2gBTyYQRyuHVcyEpnBjKnKNKg?e=HhMEPZ
